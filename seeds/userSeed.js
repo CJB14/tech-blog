@@ -3,19 +3,19 @@ const { User } = require('../models');
 const userdata =
 [
   {
-    "username": "RZA",
-    "password": "greatpass123",
-    "email": "outdatedreferance1@aol.com"
+    "username": "CJB",
+    "password": "Killacam14",
+    "email": "APA1906@gmail.com"
   },
   {
-    "username": "GZA",
-    "password": "greatpass456",
-    "email": "outdatedreferance2@hotmail.com"
+    "username": "Ten2cold",
+    "password": "Ithica1906",
+    "email": "Phrozen06@hotmail.com"
   },
   {
-    "username": "ODB",
-    "password": "shimmyshimmyya1",
-    "email": "outdatedreferance3@msn.com"
+    "username": "Dime",
+    "password": "TenaciousPhenom",
+    "email": "Ifyouknowyou@msn.com"
   }
 ];
 
